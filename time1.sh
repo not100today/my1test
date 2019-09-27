@@ -3,6 +3,7 @@ echo "Start"
 while (true) 
 do
  ./75.sh;
+  sleep 25; 
 done;
 
 
